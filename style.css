@@ -1,0 +1,31 @@
+body{
+    background-color:
+    white; color:black
+
+}
+.paragraph1{
+    font-family: Arial, sans-serif;
+    font-size: 21px;
+    text-align: center;
+    text-decoration:underline ;
+    color: blue;
+
+}
+
+.last_paragraph{
+    text-align: right;
+    color: darkcyan;
+}
+
+p{
+    color: brown;
+}
+
+li{
+    color: rgb(71, 80, 167);
+}
+
+table{
+    background-color: rgb(65, 33, 206);
+    color: white;
+}
